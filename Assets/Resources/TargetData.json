@@ -1,0 +1,229 @@
+{
+	"TargetList": [
+		{
+			"Name": "SittingArea",
+			
+			"Position": {
+				"x": 12,
+				"y": -0.71,
+				"z": 1.63
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Advance Database",
+			
+			"Position": {
+				"x": 13.05,
+				"y": -0.71,
+				"z": 22.31
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Mastering Etherium",
+			
+			"Position": {
+				"x": 13.05,
+				"y": -0.71,
+				"z": 22.31
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Endpoint",
+			
+			"Position": {
+				"x": 12.33,
+				"y": -0.71,
+				"z": 3.54
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "R1",
+			
+			"Position": {
+				"x": 12,
+				"y": -0.71,
+				"z": 29.27
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "MICROCONTROLLERS AND MICROPROCESSORS",
+			
+			"Position": {
+				"x": 12.59,
+				"y": -0.71,
+				"z": 29.27
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		
+		{
+			"Name": "Microprocessors",
+			
+			"Position": {
+				"x": 14.088,
+				"y": -0.653,
+				"z": 29.094
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "R3",
+			
+			"Position": {
+				"x": 10.91,
+				"y": -0.71,
+				"z": 22.31
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "R4",
+			
+			"Position": {
+				"x": 10.96,
+				"y": -0.71,
+				"z": 17.07
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "R5-No",
+			
+			"Position": {
+				"x": 16.64,
+				"y": -0.71,
+				"z": 1.5
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "R6",
+			
+			"Position": {
+				"x": 10.82,
+				"y": -0.71,
+				"z": 11.16
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "R7",
+			
+			"Position": {
+				"x": 10.87,
+				"y": -0.71,
+				"z": 3.47
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "R8",
+			
+			"Position": {
+				"x": 15.57,
+				"y": -0.71,
+				"z": 2.63
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "R9",
+			
+			"Position": {
+				"x": 14.46,
+				"y": -0.71,
+				"z": 2.63
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "StartingPoint",
+			
+			"Position": {
+				"x": 0,
+				"y": 0,
+				"z":0
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "webopac",
+			
+			"Position": {
+				"x": 10.271,
+				"y": -0.71,
+				"z":8.57
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0,
+				"z": 0.0
+			}
+		}
+	]
+}
