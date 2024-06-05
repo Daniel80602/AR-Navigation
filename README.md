@@ -51,6 +51,7 @@ Navmesh is an crucial component to provide the navigational prowess to the appli
 # Output
 
 This is an screen recording of the working of the application in real time.
+
 https://github.com/Daniel80602/AR-Navigation/assets/110182355/4278d4f4-dc31-41a1-b1ad-e4e9d4d68b22
 
 # Conclusion
